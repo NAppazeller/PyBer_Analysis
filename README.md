@@ -21,8 +21,11 @@ The analysis will improve access to ride sharing services and improve affordabil
   The rural ride sharing program included 78 drivers who provided 125 rides with fares totaling $4,328 during the period of 1 January 2019 through 8 May 2019. Average fare per rural rider and driver was $55.49 where the average fare per ride was $34.62.
 
 
-
 ## Summary:
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-Submission
+A deeper analysis would be warranted for the following data discrepancies:
+
+* Urban fares drop mid-January where it rises in suburban and rural cities. What is the reason for the drop?
+* Urban fares fluctuate significantly in March compared to suburban and rural cities. What is the reason for the fluctuation?
+* Urban average fare per ride is 48% higher than the average fare per driver/rider. Suburban and rural average fare per ride is 22% and 38% lower, respectively, than the average fare per driver/rider. What is driving the higher average fare per ride for urban cities?
+
