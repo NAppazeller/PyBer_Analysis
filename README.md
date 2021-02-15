@@ -29,3 +29,5 @@ A deeper analysis would be warranted for the following data discrepancies:
 * Urban fares fluctuate significantly in March compared to suburban and rural cities. What is the reason for the fluctuation?
 * Urban average fare per ride is 48% higher than the average fare per driver/rider. Suburban and rural average fare per ride is 22% and 38% lower, respectively, than the average fare per driver/rider. What is driving the higher average fare per ride for urban cities?
 
+![](https://github.com/NAppazeller/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+
